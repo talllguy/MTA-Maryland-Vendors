@@ -13,6 +13,12 @@
 </head>
 <body>
 
+  <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.min.js'></script>
+  <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.mapbox.css' rel='stylesheet' />
+  <!--[if lt IE 9]>
+  <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/L.Control.Locate.ie.css' rel='stylesheet' />
+  <![endif]-->
+  <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-locatecontrol/v0.43.0/css/font-awesome.min.css' rel='stylesheet' />
 
 <div id='map'></div>
 
@@ -29,6 +35,7 @@ var map = L.mapbox.map('map', 'mapbox.streets')
 var featureLayer = L.mapbox.featureLayer()
     .loadURL('vendors.geojson')
     .addTo(map);
+L.control.locate().addTo(map);
 </script>
 
 
