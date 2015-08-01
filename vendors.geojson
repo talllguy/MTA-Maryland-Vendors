@@ -12,7 +12,8 @@
       "properties": {
         "Name": "1st Express Convenience",
         "description": "Phone: 410-433-9041",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -28,7 +29,8 @@
       "properties": {
         "Name": "A&A State Check Cashing",
         "description": "Phone: 410-298-6664",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "bank"
       },
       "geometry": {
         "type": "Point",
@@ -44,7 +46,8 @@
       "properties": {
         "Name": "American Eagle Financial Service Corp.",
         "description": "Phone: 410-523-9797",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "bank"
       },
       "geometry": {
         "type": "Point",
@@ -60,7 +63,8 @@
       "properties": {
         "Name": "B&Y Liquors",
         "description": "Phone: 410-532-9011",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +80,8 @@
       "properties": {
         "Name": "Baltimore Service Center",
         "description": "Phone: 410-522-2386",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "car"
       },
       "geometry": {
         "type": "Point",
@@ -92,7 +97,8 @@
       "properties": {
         "Name": "Balto. Co. Office Bldg. (Cashier's Office)",
         "description": "Phone: 410-887-2412",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "town-hall"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +114,8 @@
       "properties": {
         "Name": "Cash Box Ltd.",
         "description": "Phone: 410-764-6217",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "bank"
       },
       "geometry": {
         "type": "Point",
@@ -124,7 +131,8 @@
       "properties": {
         "Name": "Cash Checking Depot",
         "description": "Phone: 410-939-6364",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "bank"
       },
       "geometry": {
         "type": "Point",
@@ -140,7 +148,8 @@
       "properties": {
         "Name": "Charlie Ward's",
         "description": "Phone: 410-789-2075",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "bank"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +165,8 @@
       "properties": {
         "Name": "Chesapeake Bank of Maryland",
         "description": "Phone: 410-675-6602",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "bank"
       },
       "geometry": {
         "type": "Point",
@@ -172,7 +182,8 @@
       "properties": {
         "Name": "Downtown Tobacco Outlet",
         "description": "Phone: 410-659-7800",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -188,7 +199,8 @@
       "properties": {
         "Name": "Eager & St. Paul Liquors",
         "description": "Phone: 410-385-0139",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -204,7 +216,8 @@
       "properties": {
         "Name": "Genie's Liquors",
         "description": "Phone: 410-633-3372",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -220,7 +233,8 @@
       "properties": {
         "Name": "Harlem Gardens Pharmacy",
         "description": "Phone: 410-523-5900",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "pharmacy"
       },
       "geometry": {
         "type": "Point",
@@ -236,7 +250,8 @@
       "properties": {
         "Name": "Herb's Place at Upton",
         "description": "Phone: 410-728-2844",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "bank"
       },
       "geometry": {
         "type": "Point",
@@ -252,7 +267,8 @@
       "properties": {
         "Name": "Herling's Grocery (Inside Lex. Market)",
         "description": "Phone: 410-539-0642",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "grocery"
       },
       "geometry": {
         "type": "Point",
@@ -268,7 +284,8 @@
       "properties": {
         "Name": "Hillen Liquors",
         "description": "Phone: 410-323-6748",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -284,7 +301,8 @@
       "properties": {
         "Name": "James Drug StoreÂ (Senior/Disability Passes only)",
         "description": "Phone: 410-752-5810",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "pharmacy"
       },
       "geometry": {
         "type": "Point",
@@ -300,7 +318,8 @@
       "properties": {
         "Name": "King Liquors",
         "description": "Phone: 410-686-2770",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -316,7 +335,8 @@
       "properties": {
         "Name": "Kreis Pharmacy",
         "description": "Phone: 410-233-4270",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "pharmacy"
       },
       "geometry": {
         "type": "Point",
@@ -332,7 +352,8 @@
       "properties": {
         "Name": "Leed's Liquors",
         "description": "Phone: 410-242-8600",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -348,7 +369,8 @@
       "properties": {
         "Name": "Lenny's",
         "description": "Phone: 410-669-8585",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -364,7 +386,8 @@
       "properties": {
         "Name": "Melvin Sales",
         "description": "Phone: 410-528-8808",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "bank"
       },
       "geometry": {
         "type": "Point",
@@ -380,7 +403,8 @@
       "properties": {
         "Name": "Schaefer Bldg.: MTA Transit Store",
         "description": "Phone: 410-767-3522",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "town-hall"
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +420,8 @@
       "properties": {
         "Name": "Northwood Liquors",
         "description": "Phone: 410-889-4100",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -412,7 +437,8 @@
       "properties": {
         "Name": "Oak Grove Liquors",
         "description": "Phone: 410-687-3252",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -428,7 +454,8 @@
       "properties": {
         "Name": "O'Conner Liquors",
         "description": "Phone: 410-633-2233",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -444,7 +471,8 @@
       "properties": {
         "Name": "Orye's Liquors",
         "description": "Phone: 410-243-5264",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -460,7 +488,8 @@
       "properties": {
         "Name": "Owings Mills Metro Station",
         "description": null,
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "rail-metro"
       },
       "geometry": {
         "type": "Point",
@@ -476,7 +505,8 @@
       "properties": {
         "Name": "Park Heights Check Cashing",
         "description": "Phone: 410-664-7883",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "bank"
       },
       "geometry": {
         "type": "Point",
@@ -492,7 +522,8 @@
       "properties": {
         "Name": "Parkside Liquors",
         "description": "Phone: 410-325-9200",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -508,7 +539,8 @@
       "properties": {
         "Name": "Pratt Cut-Rate Liquors",
         "description": "Phone: 410-566-2808",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -524,7 +556,8 @@
       "properties": {
         "Name": "Rosen's Liquors",
         "description": "Phone: 410-435-4100",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -540,7 +573,8 @@
       "properties": {
         "Name": "Service General",
         "description": "Phone: 410-522-7355",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "mobilephone"
       },
       "geometry": {
         "type": "Point",
@@ -556,7 +590,8 @@
       "properties": {
         "Name": "Shell Food Mart",
         "description": "Phone: 410-944-4036",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "grocery"
       },
       "geometry": {
         "type": "Point",
@@ -572,7 +607,8 @@
       "properties": {
         "Name": "Shon's Food Market",
         "description": "Phone: 410-664-2331",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "grocery"
       },
       "geometry": {
         "type": "Point",
@@ -588,7 +624,8 @@
       "properties": {
         "Name": "Shop & Go",
         "description": "Phone: 410-837-7400",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "grocery"
       },
       "geometry": {
         "type": "Point",
@@ -604,7 +641,8 @@
       "properties": {
         "Name": "Soda Pop Shop",
         "description": "Phone: 410-355-0863",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "grocery"
       },
       "geometry": {
         "type": "Point",
@@ -620,7 +658,8 @@
       "properties": {
         "Name": "Southeast Jewelry & Loan",
         "description": "Phone: (410) 732-1133",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "shop"
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +675,8 @@
       "properties": {
         "Name": "State Check Cashing",
         "description": "Phone: 410-354-7244",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "bank"
       },
       "geometry": {
         "type": "Point",
@@ -652,7 +692,8 @@
       "properties": {
         "Name": "The Hook Up",
         "description": "Phone: 443-436-9727",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "mobilephone"
       },
       "geometry": {
         "type": "Point",
@@ -668,7 +709,8 @@
       "properties": {
         "Name": "Three Brothers Car Wash",
         "description": "Phone: 410-566-9112",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "car"
       },
       "geometry": {
         "type": "Point",
@@ -684,7 +726,8 @@
       "properties": {
         "Name": "Westside Liquors",
         "description": "Phone: 410-945-0414",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
@@ -700,7 +743,8 @@
       "properties": {
         "Name": "Yesteryears Discount Liquors",
         "description": "Phone: 410-327-6055",
-        "marker-color": "#3bb2d0"
+        "marker-color": "#3bb2d0",
+        "marker-symbol": "alcohol-shop"
       },
       "geometry": {
         "type": "Point",
