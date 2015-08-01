@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>MTA Vendors for Baltimore Bus, Light Rail + Subway Services</name>
+		<description><![CDATA[MTA Vendors for Baltimore Bus, Light Rail + Subway Services]]></description>
+		<Folder>
+			<name>Vendor Locations for Local Bus, Light Rail, and Metro Subway Services</name>
+			<Placemark>
+				<name>1st Express Convenience
+Phone: 410-433-9041</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.609419,39.35298299999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A&amp;A State Check Cashing
+Phone: 410-298-6664</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.75037900000001,39.313434,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>American Eagle Financial Service Corp.
+410-523-9797</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.6525499,39.3184179,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B&amp;Y Liquors
+Phone: 410-532-9011</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.59541309999997,39.3597247,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baltimore Service Center
+Phone: 410-522-2386
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.58398449999999,39.29862,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Balto. Co. Office Bldg. (Cashier's Office)
+Phone: 410-887-2412
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.60654,39.4003356,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cash Box Ltd.
+Phone: 410-764-6217
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.70357800000001,39.3551624,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cash Checking Depot
+Phone: 410-939-6364
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.65205500000002,39.267434,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Charlie Ward's
+Phone: 410-789-2075
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.607594,39.228806,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chesapeake Bank of Maryland
+Phone: 410-675-6602
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.58480329999998,39.2859351,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Downtown Tobacco Outlet
+Phone: 410-659-7800
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.62249409999998,39.2914353,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eager &amp; St. Paul Liquors
+Phone: 410-385-0139
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.61406720000002,39.3011993,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Genie's Liquors
+Phone: 410-633-3372</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.53484800000001,39.281574,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harlem Gardens Pharmacy
+Phone: 410-523-5900</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.64394749999997,39.28845039999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Herb's Place at Upton
+Phone: 410-728-2844</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.63639160000002,39.3046112,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Herling's Grocery (Inside Lex. Market)
+Phone: 410-539-0642</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.62188320000001,39.29151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hillen Liquors
+Phone: 410-323-6748
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.5818329,39.3590294,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>James Drug Store (Senior/Disability Passes only)
+Phone: 410-752-5810
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.61204399999997,39.276627,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>King Liquors
+Phone: 410-686-2770</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.50468899999998,39.322755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kreis Pharmacy
+Phone: 410-233-4270</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.63974000000002,39.288695,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Leed's Liquors
+Phone: 410-242-8600</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.6890555,39.2670334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lenny's
+Phone: 410-669-8585</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.64116999999999,39.3092123,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Melvin Sales
+Phone: 410-528-8808
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.6208732,39.2923893,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Schaefer Bldg.: MTA Transit StorePhone: 410-767-3522</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.61421740000003,39.2897852,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Northwood Liquors
+Phone: 410-889-4100</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.59101909999998,39.3406436,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oak Grove Liquors
+Phone: 410-687-3252</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.3874222,39.3326717,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>O'Conner Liquors
+Phone: 410-633-2233
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.55560300000002,39.286846,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Orye's Liquors
+Phone: 410-243-5264</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.59998200000001,39.31744399999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Owings Mills Metro Station</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.78022499999997,39.406642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Park Heights Check Cashing
+Phone: 410-664-7883</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.682636,39.351627,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parkside Liquors
+Phone: 410-325-9200</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.54520200000002,39.322612,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pratt Cut-Rate Liquors
+Phone: 410-566-2808</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.64912099999998,39.285146,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rosen's Liquors
+Phone: 410-435-4100</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.60941020000001,39.3559963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Service General
+Phone: 410-522-7355</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.59315600000002,39.285461,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shell Food Mart
+Phone: 410-944-4036</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.73254900000002,39.344165,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shon's Food Market
+Phone: 410-664-2331</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.6836606,39.3402512,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shop &amp; Go
+Phone: 410-837-7400</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.62863399999998,39.2828288,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Soda Pop Shop
+Phone: 410-355-0863</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.58867099999998,39.2254794,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Southeast Jewelry &amp; Loan
+Phone: (410) 732-1133</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.567388,39.286442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>State Check Cashing
+Phone: 410-354-7244</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.61751620000001,39.2538955,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Hook Up
+Phone: 443-436-9727</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.74919799999998,39.30921319999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Three Brothers Car Wash
+Phone: 410-566-9112</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.66841899999997,39.28004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Westside Liquors
+Phone: 410-945-0414
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.65470440000001,39.2841374,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yesteryears Discount Liquors
+Phone: 410-327-6055</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-76.57000600000003,39.295472,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
